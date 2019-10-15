@@ -1,2 +1,9 @@
 # Project exclude paths
 /out/
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/dictionaries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+MatDis.iml
